@@ -1,5 +1,5 @@
 // Random Machine script
-// By: VETGOED CREATIEF AGENTSCHAP
+// By: sssssst
 // Author: Peter van der West
 
 PIXI.utils._saidHello = true;
